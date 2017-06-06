@@ -4,3 +4,5 @@ dist
 jade
 public
 stylus
+rollup.*
+*.json
